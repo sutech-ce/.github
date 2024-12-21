@@ -1,7 +1,7 @@
 <h6 align="center">Welcome to</h6>
 <h1 align="center">Shiraz University of Technology, Computer Engineering Department</h1>
 <p align="center">
-  <img src="../sutech.jpg"></img>
+  <img src="https://raw.githubusercontent.com/sutech-ce/.github/refs/heads/main/sutech.jpg"></img>
 </p>
 
 ## Who we are?
